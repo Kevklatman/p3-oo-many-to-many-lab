@@ -1,10 +1,13 @@
 class Author:
-    pass
+    def __init__(self, name):
+        pass
 
 
 class Book:
-    pass
+    def __init__(self, title):
+        pass
 
 
 class Contract:
-    pass
+    def __init__(self, author, book, date, royalties):
+        pass
